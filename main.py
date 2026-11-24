@@ -1,6 +1,6 @@
 import os
 
-ENTRY = "Our sprint planning is so fast we finish the standup before anyone stands up - the only thing agile here is how quickly we blame the intern."
+ENTRY = "We call it a 24-hour sprint because after 24 hours of meetings about the sprint, nobody has actually sprinted anywhere."
 
 def main():
     out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
