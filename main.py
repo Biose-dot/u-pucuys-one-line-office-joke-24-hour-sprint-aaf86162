@@ -8,7 +8,7 @@ A sprint that ships nothing but a retrospective about the retrospective — the 
 """
 import os
 
-ENTRY = 'We ran a 24-hour sprint, shipped nothing, and held a retrospective about why the sprint needed a retrospective. The meeting invite was our only deliverable.'
+ENTRY = "We ran a 24-hour sprint, shipped nothing, then held a retrospective about why the sprint needed a retrospective. The invite was our only deliverable."
 
 
 def main() -> None:
